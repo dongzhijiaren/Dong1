@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'Dong1_Example' do
+  pod 'Dong1', :path => '../'
+
+  target 'Dong1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
