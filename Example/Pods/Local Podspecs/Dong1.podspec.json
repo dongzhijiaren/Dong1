@@ -1,8 +1,8 @@
 {
   "name": "Dong1",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Dong1.",
-  "description": "TODO: 微信开放平台文件库。。。。。。。",
+  "description": "微信开放平台文件库。。。。。。。",
   "homepage": "https://github.com/dongzhijiaren/Dong1",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/dongzhijiaren/Dong1.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

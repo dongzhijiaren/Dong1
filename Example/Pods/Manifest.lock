@@ -1,5 +1,5 @@
 PODS:
-  - Dong1 (0.1.0)
+  - Dong1 (0.1.1)
 
 DEPENDENCIES:
   - Dong1 (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Dong1: 0d1cc3af577604e3ce8048d42de6cdd5c3aee6c3
+  Dong1: 37d3d1fde519c42f7bdf9bae33394586b764bfd0
 
 PODFILE CHECKSUM: 9f8d8e15d1dd3dc37a6290d73785db4bcf13f41c
 
